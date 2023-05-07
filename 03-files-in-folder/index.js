@@ -25,4 +25,4 @@ fs.readdir(folderPath, { withFileTypes: true }, (err, files) => {
       }
     });
   }  
-})
+});
